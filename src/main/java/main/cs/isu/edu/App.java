@@ -5,7 +5,7 @@ package main.cs.isu.edu;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello my World";
     }
 
     public static void main(String[] args) {
